@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="724a8e78-8737-4e0c-ba93-9eebdc9b5767" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFgsIn81txYagaX3CwIZD7aSlF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.orangehrm" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.orangehrm.testsuite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nikit\IdeaProjects\homework-maven-harrowcouncil\homework-maven-orangeHRM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/nikit/IdeaProjects/homework-maven-harrowcouncil/homework-maven-orangeHRM/src/test/java/com/orangehrm/resources/runners/testNG.xml">
+    <configuration name="C:/Users/nikit/IdeaProjects/homework-maven-harrowcouncil/homework-maven-orangeHRM/src/test/java/com/orangehrm/resources/runners/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="homework-maven-orangeHRM" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/orangehrm/resources/runners/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactSalesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="homework-maven-orangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrm.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.orangehrm.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrm.testsuite.ContactSalesTest" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactSalesTest1.verifyUserIsAbleToSubmitContactSalesDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="homework-maven-orangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrm.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrm.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrm.testsuite.ContactSalesTest1" />
+      <option name="METHOD_NAME" value="verifyUserIsAbleToSubmitContactSalesDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactSalesTest.verifyUserIsAbleToSubmitContactSalesDetails" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="homework-maven-orangeHRM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.orangehrm.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.orangehrm.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.orangehrm.testsuite.ContactSalesTest" />
+      <option name="METHOD_NAME" value="verifyUserIsAbleToSubmitContactSalesDetails" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.ContactSalesTest" />
+      <item itemvalue="TestNG.ContactSalesTest.verifyUserIsAbleToSubmitContactSalesDetails" />
+      <item itemvalue="TestNG.C:/Users/nikit/IdeaProjects/homework-maven-harrowcouncil/homework-maven-orangeHRM/src/test/java/com/orangehrm/resources/runners/testNG.xml" />
+      <item itemvalue="TestNG.ContactSalesTest1.verifyUserIsAbleToSubmitContactSalesDetails" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/nikit/IdeaProjects/homework-maven-harrowcouncil/homework-maven-orangeHRM/src/test/java/com/orangehrm/resources/runners/testNG.xml" />
+        <item itemvalue="TestNG.ContactSalesTest1.verifyUserIsAbleToSubmitContactSalesDetails" />
+        <item itemvalue="TestNG.ContactSalesTest" />
+        <item itemvalue="TestNG.ContactSalesTest.verifyUserIsAbleToSubmitContactSalesDetails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="724a8e78-8737-4e0c-ba93-9eebdc9b5767" name="Default Changelist" comment="" />
+      <created>1586336960321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586336960321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="447" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586780114025">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586780114025" />
+    <state x="943" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1586778110011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="943" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586778110011" />
+    <state x="546" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586778292792">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="546" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1586778292792" />
+    <state x="940" y="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1586778040364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="940" y="303" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1586778040364" />
+    <state width="1493" height="297" key="GridCell.Tab.0.bottom" timestamp="1586800465197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586800465197" />
+    <state width="1493" height="297" key="GridCell.Tab.0.center" timestamp="1586800465197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586800465197" />
+    <state width="1493" height="297" key="GridCell.Tab.0.left" timestamp="1586800465197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586800465197" />
+    <state width="1493" height="297" key="GridCell.Tab.0.right" timestamp="1586800465197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="297" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586800465197" />
+  </component>
+</project>

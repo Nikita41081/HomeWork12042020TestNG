@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="homework-maven-wcht(failed)">
+    <classes>
+      <class name="uk.org.wcht.testsuite.AccessibilityTest">
+        <methods>
+          <include name="verifyUserCanNavigateToAccessiblityPage"/>
+          <include name="openBrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- uk.org.wcht.testsuite.AccessibilityTest -->
+    </classes>
+  </test> <!-- homework-maven-wcht(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

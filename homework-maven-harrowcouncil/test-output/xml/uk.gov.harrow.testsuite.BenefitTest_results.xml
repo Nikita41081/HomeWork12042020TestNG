@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BenefitTest"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.404">
+  <properties />
+  
+  
+            <testcase name="verifyUserIsAbleToNavigateToBenefitsPage" time="7.404" classname="uk.gov.harrow.testsuite.BenefitTest" />
+      
+</testsuite>

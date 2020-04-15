@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="homework-maven-orangeHRM(failed)">
+    <classes>
+      <class name="com.orangehrm.testsuite.ContactSalesTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="openBrowser"/>
+          <include name="verifyUserIsAbleToSubmitContactSalesDetails"/>
+        </methods>
+      </class> <!-- com.orangehrm.testsuite.ContactSalesTest -->
+    </classes>
+  </test> <!-- homework-maven-orangeHRM(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
